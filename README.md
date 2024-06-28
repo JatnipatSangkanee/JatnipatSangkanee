@@ -6,6 +6,7 @@ Student in CoE PSU
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [jatnipat.oom@gmail.com](mailto:jatnipat.oom@gmail.com)
+* Now I'm learning Ai Chat Bot
 
 ### Skills
 
